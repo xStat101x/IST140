@@ -1,0 +1,6 @@
+Daily step goal: 9000
+Days under step goal: 5
+Days at step goal: 2
+Days over step goal: 7
+average steps: 8848.86
+matching steps: 2
